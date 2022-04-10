@@ -1,0 +1,14 @@
+L-arginina
+L-Lisin
+Lysene
+
+---------------------
+
+
+git init 
+git add biografía.txt
+git commit -m "version"
+
+git status
+git show
+git log biografía.txt 
